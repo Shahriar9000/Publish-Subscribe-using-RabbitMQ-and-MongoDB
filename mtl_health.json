@@ -1,0 +1,402 @@
+[
+  {
+    "timestamp": 1546300800, 
+    "health_status": 1
+  }, 
+  {
+    "timestamp": 1546300801, 
+    "health_status": 1
+  }, 
+  {
+    "timestamp": 1546300802, 
+    "health_status": 0
+  }, 
+  {
+    "timestamp": 1546300803, 
+    "health_status": 1
+  }, 
+  {
+    "timestamp": 1546300804, 
+    "health_status": 1
+  }, 
+  {
+    "timestamp": 1546300805, 
+    "health_status": 1
+  }, 
+  {
+    "timestamp": 1546300806, 
+    "health_status": 0
+  }, 
+  {
+    "timestamp": 1546300807, 
+    "health_status": 1
+  }, 
+  {
+    "timestamp": 1546300808, 
+    "health_status": 2
+  }, 
+  {
+    "timestamp": 1546300809, 
+    "health_status": 0
+  }, 
+  {
+    "timestamp": 1546300810, 
+    "health_status": 1
+  }, 
+  {
+    "timestamp": 1546300811, 
+    "health_status": 2
+  }, 
+  {
+    "timestamp": 1546300812, 
+    "health_status": 0
+  }, 
+  {
+    "timestamp": 1546300813, 
+    "health_status": 2
+  }, 
+  {
+    "timestamp": 1546300814, 
+    "health_status": 0
+  }, 
+  {
+    "timestamp": 1546300815, 
+    "health_status": 1
+  }, 
+  {
+    "timestamp": 1546300816, 
+    "health_status": 2
+  }, 
+  {
+    "timestamp": 1546300817, 
+    "health_status": 2
+  }, 
+  {
+    "timestamp": 1546300818, 
+    "health_status": 1
+  }, 
+  {
+    "timestamp": 1546300819, 
+    "health_status": 0
+  }, 
+  {
+    "timestamp": 1546300820, 
+    "health_status": 1
+  }, 
+  {
+    "timestamp": 1546300821, 
+    "health_status": 1
+  }, 
+  {
+    "timestamp": 1546300822, 
+    "health_status": 0
+  }, 
+  {
+    "timestamp": 1546300823, 
+    "health_status": 2
+  }, 
+  {
+    "timestamp": 1546300824, 
+    "health_status": 2
+  }, 
+  {
+    "timestamp": 1546300825, 
+    "health_status": 2
+  }, 
+  {
+    "timestamp": 1546300826, 
+    "health_status": 2
+  }, 
+  {
+    "timestamp": 1546300827, 
+    "health_status": 1
+  }, 
+  {
+    "timestamp": 1546300828, 
+    "health_status": 2
+  }, 
+  {
+    "timestamp": 1546300829, 
+    "health_status": 2
+  }, 
+  {
+    "timestamp": 1546300830, 
+    "health_status": 2
+  }, 
+  {
+    "timestamp": 1546300831, 
+    "health_status": 2
+  }, 
+  {
+    "timestamp": 1546300832, 
+    "health_status": 2
+  }, 
+  {
+    "timestamp": 1546300833, 
+    "health_status": 0
+  }, 
+  {
+    "timestamp": 1546300834, 
+    "health_status": 1
+  }, 
+  {
+    "timestamp": 1546300835, 
+    "health_status": 2
+  }, 
+  {
+    "timestamp": 1546300836, 
+    "health_status": 2
+  }, 
+  {
+    "timestamp": 1546300837, 
+    "health_status": 1
+  }, 
+  {
+    "timestamp": 1546300838, 
+    "health_status": 2
+  }, 
+  {
+    "timestamp": 1546300839, 
+    "health_status": 1
+  }, 
+  {
+    "timestamp": 1546300840, 
+    "health_status": 0
+  }, 
+  {
+    "timestamp": 1546300841, 
+    "health_status": 2
+  }, 
+  {
+    "timestamp": 1546300842, 
+    "health_status": 2
+  }, 
+  {
+    "timestamp": 1546300843, 
+    "health_status": 0
+  }, 
+  {
+    "timestamp": 1546300844, 
+    "health_status": 2
+  }, 
+  {
+    "timestamp": 1546300845, 
+    "health_status": 0
+  }, 
+  {
+    "timestamp": 1546300846, 
+    "health_status": 0
+  }, 
+  {
+    "timestamp": 1546300847, 
+    "health_status": 2
+  }, 
+  {
+    "timestamp": 1546300848, 
+    "health_status": 0
+  }, 
+  {
+    "timestamp": 1546300849, 
+    "health_status": 2
+  }, 
+  {
+    "timestamp": 1546300850, 
+    "health_status": 2
+  }, 
+  {
+    "timestamp": 1546300851, 
+    "health_status": 2
+  }, 
+  {
+    "timestamp": 1546300852, 
+    "health_status": 0
+  }, 
+  {
+    "timestamp": 1546300853, 
+    "health_status": 0
+  }, 
+  {
+    "timestamp": 1546300854, 
+    "health_status": 0
+  }, 
+  {
+    "timestamp": 1546300855, 
+    "health_status": 1
+  }, 
+  {
+    "timestamp": 1546300856, 
+    "health_status": 2
+  }, 
+  {
+    "timestamp": 1546300857, 
+    "health_status": 0
+  }, 
+  {
+    "timestamp": 1546300858, 
+    "health_status": 1
+  }, 
+  {
+    "timestamp": 1546300859, 
+    "health_status": 2
+  }, 
+  {
+    "timestamp": 1546300860, 
+    "health_status": 2
+  }, 
+  {
+    "timestamp": 1546300861, 
+    "health_status": 2
+  }, 
+  {
+    "timestamp": 1546300862, 
+    "health_status": 1
+  }, 
+  {
+    "timestamp": 1546300863, 
+    "health_status": 0
+  }, 
+  {
+    "timestamp": 1546300864, 
+    "health_status": 0
+  }, 
+  {
+    "timestamp": 1546300865, 
+    "health_status": 0
+  }, 
+  {
+    "timestamp": 1546300866, 
+    "health_status": 0
+  }, 
+  {
+    "timestamp": 1546300867, 
+    "health_status": 2
+  }, 
+  {
+    "timestamp": 1546300868, 
+    "health_status": 2
+  }, 
+  {
+    "timestamp": 1546300869, 
+    "health_status": 0
+  }, 
+  {
+    "timestamp": 1546300870, 
+    "health_status": 0
+  }, 
+  {
+    "timestamp": 1546300871, 
+    "health_status": 0
+  }, 
+  {
+    "timestamp": 1546300872, 
+    "health_status": 1
+  }, 
+  {
+    "timestamp": 1546300873, 
+    "health_status": 2
+  }, 
+  {
+    "timestamp": 1546300874, 
+    "health_status": 0
+  }, 
+  {
+    "timestamp": 1546300875, 
+    "health_status": 0
+  }, 
+  {
+    "timestamp": 1546300876, 
+    "health_status": 1
+  }, 
+  {
+    "timestamp": 1546300877, 
+    "health_status": 0
+  }, 
+  {
+    "timestamp": 1546300878, 
+    "health_status": 2
+  }, 
+  {
+    "timestamp": 1546300879, 
+    "health_status": 1
+  }, 
+  {
+    "timestamp": 1546300880, 
+    "health_status": 1
+  }, 
+  {
+    "timestamp": 1546300881, 
+    "health_status": 1
+  }, 
+  {
+    "timestamp": 1546300882, 
+    "health_status": 0
+  }, 
+  {
+    "timestamp": 1546300883, 
+    "health_status": 0
+  }, 
+  {
+    "timestamp": 1546300884, 
+    "health_status": 0
+  }, 
+  {
+    "timestamp": 1546300885, 
+    "health_status": 1
+  }, 
+  {
+    "timestamp": 1546300886, 
+    "health_status": 1
+  }, 
+  {
+    "timestamp": 1546300887, 
+    "health_status": 2
+  }, 
+  {
+    "timestamp": 1546300888, 
+    "health_status": 1
+  }, 
+  {
+    "timestamp": 1546300889, 
+    "health_status": 0
+  }, 
+  {
+    "timestamp": 1546300890, 
+    "health_status": 0
+  }, 
+  {
+    "timestamp": 1546300891, 
+    "health_status": 1
+  }, 
+  {
+    "timestamp": 1546300892, 
+    "health_status": 2
+  }, 
+  {
+    "timestamp": 1546300893, 
+    "health_status": 1
+  }, 
+  {
+    "timestamp": 1546300894, 
+    "health_status": 1
+  }, 
+  {
+    "timestamp": 1546300895, 
+    "health_status": 1
+  }, 
+  {
+    "timestamp": 1546300896, 
+    "health_status": 0
+  }, 
+  {
+    "timestamp": 1546300897, 
+    "health_status": 0
+  }, 
+  {
+    "timestamp": 1546300898, 
+    "health_status": 0
+  }, 
+  {
+    "timestamp": 1546300899, 
+    "health_status": 1
+  }
+]
